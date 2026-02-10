@@ -1,6 +1,7 @@
 # Creating-an-AMI-from-an-Existing-EC2-Instance
 
 This guide demonstrates how to create an **Amazon Machine Image (AMI)** from an existing **EC2 instance** using the **AWS Management Console**.  
+
 An Amazon Machine Image (AMI) is a reusable template that contains the configuration needed to launch an EC2 instance. It includes the operating system, application server, installed software, and instance settings. AMIs allow you to quickly create identical EC2 instances, making them essential for scaling, backup, disaster recovery, and consistent infrastructure deployments.
 
 ## Step 1: Open the EC2 Dashboard
